@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm Shrey Pandey, a front end developer. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's coding , I travel, work on electronics and watch UFC. 
+I'm Shrey Pandey, a front end developer. I'm a creative problem solving enthusiast and a product guy, with a constantly growing love for kick ass products. Beside's coding , I travel, work on electronics and watch UFC. 
 
 Here are some ideas to get you started:
 
