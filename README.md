@@ -28,12 +28,12 @@ Here are some ideas to get you started:
 
 ![Shrey's GitHub stats](https://github-readme-stats.vercel.app/api?username=shrey27&count_private=true&show_icons=true&theme=vue)
 
-## Major Projects
+<!-- ## Major Projects
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27&repo=Component-Library-NeogCamp&theme=vue)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27&repo=rick_and_morty_wiki&theme=vue)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27&repo=evernote-firebase-app&theme=vue)
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27&repo=Firegram-app&theme=vue)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27&repo=evernote-clone&theme=vue)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=shrey27&repo=evernote-clone&theme=vue) -->
 
 ## Latest Blog Posts
 
